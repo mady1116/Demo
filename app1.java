@@ -1,2 +1,2 @@
-public class
-kjnefjljf
+public class Demo{
+}
