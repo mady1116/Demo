@@ -1,2 +1,2 @@
-public class Demo{
+public class app1{
 }
